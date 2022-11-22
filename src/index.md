@@ -1,8 +1,8 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Tholaal's Blog
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'This is Tholaal's platform for thoughts, ideas and experiences about designing and programming embedded systems. '
 socialImage: ''
 ---
