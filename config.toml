@@ -20,5 +20,5 @@ highlight_code = true
 
 # The taxonomies to be rendered for the site and their configuration.
 taxonomies = [
-  {name = "tags", feed = true}, # each tag will have its own feed
+  {name = "tags", feed = true}, # each tag will have its own feed not workin
 ]
