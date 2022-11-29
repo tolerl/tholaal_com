@@ -2,9 +2,6 @@
 title = "Hello World from my blog"
 date = 2021-05-01T11:11:00+00:00
 
-[taxonomies]
-tags = ["Rust", "Sample"]
-
 [extra]
 author = "Rustaceans"
 +++
