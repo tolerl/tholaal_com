@@ -1,5 +1,5 @@
 +++
-title = "Hello World"
+title = "Hello World from my blog"
 date = 2021-05-01T11:11:00+00:00
 
 [taxonomies]
@@ -10,6 +10,7 @@ author = "Rustaceans"
 +++
 
 This is the source code of the traditional *Hello World* program.
+
 <!-- more -->
 
 ```rust
